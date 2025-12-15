@@ -1,4 +1,4 @@
-# RAG-QandA-chatbot for Loan
+# 💬 Smart Loan Assistant
 
 An intelligent RAG-powered chatbot for loan-related queries, built with Streamlit, FAISS, and Google's Gemini LLM.
 
@@ -27,7 +27,7 @@ An intelligent RAG-powered chatbot for loan-related queries, built with Streamli
 ## Project Structure
 
 ```
-RAG-QandA-chatbot/
+💬 Smart Loan Assistant/
 ├── app.py                 # Main Streamlit application
 ├── src/                   # Core modules
 │   ├── embedder.py       # FAISS index creation
